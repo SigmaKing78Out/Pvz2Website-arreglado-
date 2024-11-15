@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    margin: none;
+    background-image: linear-gradient(rgb(227, 92, 54), rgb(52, 148, 153));
+}
+#imagen{
+    height: 780px; width: 1000px;
+}
+#titulo{
+    font-family: "Sour Gummy", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    }
+    #sigmer{
+        font-family: "Oswald", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+      }
